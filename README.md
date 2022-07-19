@@ -1,7 +1,7 @@
 # No-show-appointments-data-analysis
 In this project I will be analyzing data associated with patients and their hospital appointments.I will be interested in finding trends betweeen patients who show up for their appointments and patients who do not.The No-show appointments database contains information collected from over 100 thousand medical appointments in Brazil and its main focus is to show whether or not patients showed up for their appointments. The dataset contains information on a number of characteristics in rows.The data has 14 columns which are:
 
-PatientID: which shows the id of the patient in question.
+#  PatientID: which shows the id of the patient in question.
 AppointmentID : which shows the id of the appointment the patient made.
 Gender: The sex of the patient which could be male or female.
 ScheduledDay:The date the appointment was scheduled.
